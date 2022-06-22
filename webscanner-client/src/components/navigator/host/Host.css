@@ -1,0 +1,26 @@
+.host-card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #c6c2c7;
+    border-radius: 30px;
+    padding: 40px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.host-card_header {
+    position: relative;
+    margin: 15px 0px;
+}
+
+.host-card_header-text {
+    position: absolute;
+    top: -20px;
+    left: 0px;
+    font-size: 12px;
+    color: gray;
+}
+
+.host-card_header-value {
+    font-size: 26px;
+}

@@ -1,0 +1,23 @@
+.robots-card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #c6c2c7;
+    height: 100%;
+    border-radius: 30px;
+    padding: 40px;
+    position: relative;
+}
+
+.robots-card_text {
+    position: absolute;
+    top: 15px;
+    font-size: 12px;
+    color: gray;
+}
+
+.robots-card_value {}
+
+.robots-card_value-text {
+    font-size: 20px;
+    font-stretch: unset;
+}

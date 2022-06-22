@@ -1,0 +1,23 @@
+.content {
+    display: flex;
+
+}
+
+.content_header {
+    display: flex;
+    margin: 15px 0px;
+    padding: 10px 0px;
+    border-bottom: 1px solid grey;
+}
+
+.content_header-text {
+    font-size: 20px;
+}
+
+.content_body {}
+
+.content-container {
+    display: flex;
+    width: 80%;
+    flex-direction: column;
+}
